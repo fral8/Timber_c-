@@ -1,0 +1,14 @@
+﻿  Timber.cpp
+c:\users\frana\documents\visual studio 2015\projects\timber\timber\timber.cpp(185): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\frana\documents\visual studio 2015\projects\timber\timber\timber.cpp(199): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\frana\documents\visual studio 2015\projects\timber\timber\timber.cpp(252): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\frana\documents\visual studio 2015\projects\timber\timber\timber.cpp(255): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\frana\documents\visual studio 2015\projects\timber\timber\timber.cpp(271): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\frana\documents\visual studio 2015\projects\timber\timber\timber.cpp(274): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\frana\documents\visual studio 2015\projects\timber\timber\timber.cpp(289): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\frana\documents\visual studio 2015\projects\timber\timber\timber.cpp(292): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\frana\documents\visual studio 2015\projects\timber\timber\timber.cpp(307): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\frana\documents\visual studio 2015\projects\timber\timber\timber.cpp(310): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\frana\documents\visual studio 2015\projects\timber\timber\timber.cpp(326): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Timber.vcxproj -> C:\Users\frana\Documents\Visual Studio 2015\Projects\Timber\Debug\Timber.exe
+  Timber.vcxproj -> C:\Users\frana\Documents\Visual Studio 2015\Projects\Timber\Debug\Timber.pdb (Full PDB)
