@@ -5,4 +5,4 @@ an arcade game that was manufactured by Midway Games in 1984. The object of the 
 <sub><sup>Wikipedia.com</sup></sub>
 
 Below is presented a video showing the final implementation.
-[![Watch the video](fporGitLayout/header.JPG)](https://www.youtube.com/watch?v=OCl5eT27IWA)
+[![Watch the video](/fporGitLayout/header.JPG)](https://www.youtube.com/watch?v=OCl5eT27IWA)
